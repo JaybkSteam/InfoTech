@@ -2,8 +2,9 @@ body {
 
     font-family: 'Robot';
   
-    background: rgb(63,106,128);
-    background: linear-gradient(90deg, rgba(63,106,128,1) 14%, rgba(14,131,136,1) 49%, rgba(5,45,46,1) 74%);
+    background: #CBE4DE;
+;
+    
     } 
     h1,h2,h3,h4,h5,h6,p,li {
     text-decoration: ;
